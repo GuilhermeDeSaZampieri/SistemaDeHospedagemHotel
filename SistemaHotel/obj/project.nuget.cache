@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjC6/5dfAj7Qib+SQapbrM/wiEVk3bpWWYz+lRjIvk54hSGuLKV6PmHMyZdd0Y0eks6Yy2alfk9pZBnToiazlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guiza\\OneDrive\\Área de Trabalho\\2024 Estudos\\c#\\Curso avanade 2024\\Desafios de projeto\\SistemaDeHospedagemDeHotel\\SistemaHotel\\SistemaHotel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guiza\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

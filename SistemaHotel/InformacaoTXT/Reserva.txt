@@ -1,0 +1,17 @@
+[
+  {
+    "Hospedes": [
+      {
+        "Nome": "g",
+        "Sobrenome": "a",
+        "NomeCompleto": "g a"
+      }
+    ],
+    "Suite": {
+      "TipoSuite": "Comum",
+      "Capacidade": 2,
+      "ValorDiaria": 30.0
+    },
+    "DiasReservados": 10
+  }
+]

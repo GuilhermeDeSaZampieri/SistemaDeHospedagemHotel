@@ -1,0 +1,17 @@
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\bin\Debug\net6.0\SistemaHotel.exe
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\bin\Debug\net6.0\SistemaHotel.deps.json
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\bin\Debug\net6.0\SistemaHotel.runtimeconfig.json
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\bin\Debug\net6.0\SistemaHotel.dll
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\bin\Debug\net6.0\SistemaHotel.pdb
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.csproj.AssemblyReference.cache
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.AssemblyInfoInputs.cache
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.AssemblyInfo.cs
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.dll
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\refint\SistemaHotel.dll
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.pdb
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.genruntimeconfig.cache
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\ref\SistemaHotel.dll
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\guiza\OneDrive\Área de Trabalho\2024 Estudos\c#\Curso avanade 2024\Desafios de projeto\SistemaDeHospedagemDeHotel\SistemaHotel\obj\Debug\net6.0\SistemaHotel.csproj.CopyComplete
