@@ -1,2 +1,6 @@
 # SistemaDeHospedagemHotel
-Um sistema de hospedagem envolvendo a lógica de programação, programação orientada a objetos e um pacote Json 
+Um sistema de hospedagem criado em C# com: 
+ - lógica de programação
+ - programação orientada a objetos (Poo)
+ - pacote do site Nuget (Newtonsoft.Json 13.0.3
+
